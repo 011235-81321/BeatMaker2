@@ -1,0 +1,102 @@
+.grid {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    background-color: purple;
+    margin-bottom: 20px;
+
+}
+.grid1 {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    background-color: red;
+    margin-bottom: 20px;
+}
+.grid2 {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    background-color: green;
+    margin-bottom: 20px;
+}
+.snare{
+    width: 30px;
+    margin: 1px;
+}
+.snare1{
+    width: 30px;
+    margin: 1px;
+}
+.snare2{
+    width: 30px;
+    margin: 1px;
+}
+.OHihat{
+    width: 45px;
+    padding: 1px;
+}
+.OHihat1{
+    width: 45px;
+    padding: 1px;
+}
+.OHihat2{
+    width: 45px;
+    padding: 1px;
+}
+.CHihat {
+    width: 30px;
+    padding: 3px;
+}
+.CHihat1 {
+    width: 30px;
+    padding: 3px;
+}
+.CHihat2 {
+    width: 30px;
+    padding: 3px;
+}
+.cymbal{
+    width: 30px;
+    padding: 3px;
+}
+.cymbal1{
+    width: 30px;
+    padding: 3px;
+}
+.cymbal2{
+    width: 30px;
+    padding: 3px;
+}
+.base{
+    width: 30px;
+    padding: 3px;
+
+}
+.base1{
+    width: 30px;
+    padding: 3px;
+
+}
+.base2{
+    width: 30px;
+    padding: 3px;
+
+}
+.clap {
+    width: 30px;
+    padding: 3px;
+}
+.clap1 {
+    width: 30px;
+    padding: 3px;
+}
+.clap2 {
+    width: 30px;
+    padding: 3px;
+}
+body {
+    background-color: black;
+    color:white;
+    text-align: center;
+}
